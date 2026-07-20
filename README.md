@@ -17,7 +17,6 @@ A beginner-friendly Python project that compares two numbers and determines whet
 - Functions
 - if / elif / else
 - try / except
-- raise
 - ValueError
 
 ## Author
